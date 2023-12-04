@@ -4,7 +4,8 @@ A-Z Prompt Engineering
 ## Introduction
 Welcome to "All about Prompt Engineering" - a comprehensive repository dedicated to the art and science of prompt engineering. This resource is designed to provide you with a deep understanding of prompt engineering, its applications, and best practices.
 
-## Adopt these Frameworks/Pointers to improve results from LLMs drastically
+## Here is my personal Prompt Formula that I use: 
+
 ### 1. Role-Task-Example 
 Step 1. Give it a role (Eg- You are an expert Product Manager with more than X years of experience)
 Step 2: Give it the task you want to do 
@@ -13,7 +14,7 @@ Step 3: Give an example output for it to give you a similar output.
 ### 2. After every prompt write the following: "Take a deep breath and Make sure to think step by step and answer only when sure in a structured manner" 
 Proven way to get a better output. Trust me it works.
 
-### 3. Studies have shown that LLMs enhanced with prompts like “this is important for my career” or “You better be sure” give more accurate & subjectively better answers!
+### 3. Studies have shown that LLMs enhanced with prompts like “This is important for my career” or “You better be sure” give more accurate & subjectively better answers!
 
 
 ## Resources that you can use to read more and better.
