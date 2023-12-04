@@ -4,7 +4,19 @@ A-Z Prompt Engineering
 ## Introduction
 Welcome to "All about Prompt Engineering" - a comprehensive repository dedicated to the art and science of prompt engineering. This resource is designed to provide you with a deep understanding of prompt engineering, its applications, and best practices.
 
-## Resources
+## Adopt these Frameworks/Pointers to improve results from LLMs drastically
+### 1. Role-Task-Example 
+Step 1. Give it a role (Eg- You are an expert Product Manager with more than X years of experience)
+Step 2: Give it the task you want to do 
+Step 3: Give an example output for it to give you a similar output.
+
+### 2. After every prompt write the following: "Take a deep breath and Make sure to think step by step and answer only when sure in a structured manner" 
+Proven way to get a better output. Trust me it works.
+
+### 3. Studies have shown that LLMs enhanced with prompts like “this is important for my career” or “You better be sure” give more accurate & subjectively better answers!
+
+
+## Resources that you can use to read more and better.
 
 ### 1. [Prompt Engineering by Lillian Weng](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 **Summary:** Lillian Weng's article offers a detailed exploration of prompt engineering, highlighting its significance in the AI field. It covers various aspects, including prompt design, optimization techniques, and real-world applications. This is an essential read for anyone looking to understand the nuances and impact of prompt engineering.
